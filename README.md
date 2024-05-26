@@ -1,5 +1,7 @@
-# Global_superstore_data
--This repository involves analyzing the Global Superstore dataset, which includes detailed international sales data. The dataset comprises records from various countries, focusing on product sales, profitability, and customer behavior
+# Global Superstore Analysis
+
+## Overview
+-This repository involves analyzing the Global Superstore dataset, which includes detailed international sales data. The dataset comprises records from various countries, focusing on product sales, profitability, and customer behavior.
 
 ![Global Superstore Dashboard](https://github.com/Ngozikah/Global_superstore_data/assets/170735868/c97bf2f5-f3ea-4cd8-8d8a-1e0025e0a60f)
 ![Global Superstore Dashboard_2](https://github.com/Ngozikah/Global_superstore_data/assets/170735868/af0315c4-b284-46ae-a634-666efb0a2b1c)
