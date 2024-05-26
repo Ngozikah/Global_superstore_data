@@ -20,6 +20,9 @@ The dataset includes several key fields such as:
 - **Customer Name**: Name of the customer.
 - **Country**: Country where the product was sold.
 
+## Tools Used
+-Power BI
+
 ## Analysis
 ### Question 1: Profit Analysis by Country (2014)(Top 3 countries along with the top contributing products.
 **The top three countries with the highest total profit in 2014 were**
