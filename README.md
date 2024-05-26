@@ -4,7 +4,9 @@
 -This repository involves analyzing the Global Superstore dataset, which includes detailed international sales data. The dataset comprises records from various countries, focusing on product sales, profitability, and customer behavior.
 
 ![Global Superstore Dashboard](https://github.com/Ngozikah/Global_superstore_data/assets/170735868/c97bf2f5-f3ea-4cd8-8d8a-1e0025e0a60f)
+
 ![Global Superstore Dashboard_2](https://github.com/Ngozikah/Global_superstore_data/assets/170735868/af0315c4-b284-46ae-a634-666efb0a2b1c)
+
 ![Global Superstore Dashboard _3](https://github.com/Ngozikah/Global_superstore_data/assets/170735868/877e7224-e55b-45f6-8b6a-b67a2c63dc8d)
 
 ## Data Description
@@ -130,20 +132,20 @@ o	Fellowes Trays, Industrial (2 purchases)
 o	Accos Staples, 12 Pack (1 purchase)
 o	Acme Scissors, Serrated (1 purchase)
 
-**Additional Insight**
-## Trends
--Sales and profits show a clear seasonal pattern, peaking during November and December due to holiday shopping. There's noticeable growth year-over-year, with a significant spike in the last year, possibly driven by an expansion in new markets.
+## Additional Insight
+### Trends
+-Sales and profits show a clear seasonal patten, peaking during November and December due to holiday shopping. There's noticeable growth year-over-year, with a significant spike in the last year, possibly driven by an expansion in new markets.
 
-## Geographic Performance
+### Geographic Performance
 -The United States and Europe are the top-performing regions in terms of sales and profits. However, performance in Southeast Asia is mixed, with countries like Singapore showing strong sales but countries like Indonesia not as profitable, possibly due to high operational costs or discounts.
 
-## Product Performance
+### Product Performance
 -Technology and Office Supplies are the top-selling categories. Within Technology, laptops and mobile phones are particularly profitable. However, tables within the Furniture category show negative profitability, indicating potential issues with product pricing or supplier costs.
 
-## Customer Segmentation
+### Customer Segmentation
 -High-value customers typically purchase technology and high-end office supplies. These customers are characterized by fewer, but larger transactions. Middle-tier customers frequently buy office supplies in bulk, suggesting they might be small businesses.
 
-###
+### Discounts
 -Moderate discounts (10-20%) increase sales volumes without substantially hurting profits, but deeper discounts (above 30%) significantly reduce profit margins. There's a notable threshold where discounts start diminishing returns on profitability.
 
 ## How to Use
