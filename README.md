@@ -32,15 +32,18 @@ The dataset includes several key fields such as:
 -India: $48,807.68
 -China: $46,793.99
 **Top 3 Products by Total Profit for Each of the Top 3 Countries**
-United States:
+
+***United States***:
 1.	Canon imageCLASS 2200 Advanced Copier: $15,679.96
 2.	Hewlett Packard LaserJet 3310 Copier: $3,623.94
 3.	GBC DocuBind TL300 Electric Binding System: $1,910.59
-India:
+
+***India***:
 1.	Sauder Classic Bookcase, Traditional: $2,419.65
 2.	Cisco Smart Phone, with Caller ID: $1,609.38
 3.	Hamilton Beach Refrigerator, Red: $1,440.24
-China:
+
+***China***:
 1.	Sauder Classic Bookcase, Metal: $1,463.07
 2.	Bush Classic Bookcase, Mobile: $1,220.52
 3.	HP Copy Machine, Color: $1,196.13
